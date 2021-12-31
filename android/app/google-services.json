@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053003964575",
+    "project_id": "firechat-1c40f",
+    "storage_bucket": "firechat-1c40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053003964575:android:8132baa8c613425a5842aa",
+        "android_client_info": {
+          "package_name": "com.payright.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053003964575-p238ml88d87b0a5ps7vhfjrg6qn49jqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqYFM8gJ8kA1zCeb25GOPy_Z_J7hb0NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053003964575-p238ml88d87b0a5ps7vhfjrg6qn49jqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
